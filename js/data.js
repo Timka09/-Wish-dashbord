@@ -2,7 +2,7 @@ const user = {
   name: "Тимофій",
   surname: "Науменко",
   userPhoto: "тимоха против слендера.png",
-  qrQode: "qr-code.svg",
+  qrQode: "qr-code.png",
   dreams: [
     { src: "image.webp", alt: " подкрадули" },
     { src: "берлога.png", alt: "спати" },
